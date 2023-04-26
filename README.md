@@ -30,8 +30,10 @@ git clone https://github.com/GonzaloVolonterio/react-travel-advisor
 
 ```
 yarn install
-```
+
+yarn start
 
 ```
-yarn start
-```
+
+![3](https://user-images.githubusercontent.com/64506662/234716719-ef5a396c-1c63-4a96-b613-2a0f54066248.png)
+
