@@ -5,12 +5,12 @@
 ## Build with
 
 ```
- React 
+React 
 React-dom
 React-icons
 React Google Map Api
 Material UI
-
+JavaScript
 ```
 
 ## Live
